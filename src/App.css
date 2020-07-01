@@ -1,0 +1,35 @@
+body{
+  background-color: black;
+  text-align: center;
+  width: 100%;
+  height: auto;
+}
+
+.header{
+  z-index: 1
+}
+
+
+.navbar{
+  display: flex;
+  position: relative;
+  float: right;
+}
+
+.navbar ul li {
+  display: block;
+}
+
+.image{
+  margin: 20px;
+
+}
+
+
+
+
+
+
+
+
+
